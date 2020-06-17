@@ -1,0 +1,68 @@
+*
+{
+     margin: 0;
+    padding: 0;		
+	font-family: Century Gothic;
+}
+body
+{
+	background-image: url(../ipl2.jpg);
+	
+	height: 120vh;
+	background-size: cover;
+	background-position: center;
+}
+.nav
+{
+	width: 100%;
+	background-color: rgba(450,0,60,0.8);
+}
+.menu
+{
+	font-weight: 1000;
+	text-transform: uppercase;
+	line-height: 45px;
+}
+.nav ul
+{
+list-style-type: none;
+}
+.submenu
+{
+	display: inline-block;
+}
+.submenu a
+{
+	text-decoration: none;
+	padding: 12px 24px;
+	color: white;
+	display: block;
+}
+.menu1
+{
+	display: none;
+	position: absolute;
+	text-transform: uppercase;
+	width: 220px;
+	background-color: rgba(0,0,0,0.8);
+}
+
+.submenu:hover .menu1
+{
+	display: block;
+}
+.submenu1
+{
+border-left: 4px solid transparent;	
+
+}
+.submenu1:hover
+{
+	border-left: 4px solid rgba(450,0,60,0.8);
+	background-color: rgba(0,0,0,0.6);
+}
+.submenu:hover
+{
+	background-color: grey;
+	transition: 0.5s ease;
+}

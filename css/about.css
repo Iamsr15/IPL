@@ -1,0 +1,85 @@
+body { 
+  margin: 0; 
+  padding: 0; 
+  background-image:url(../pexels-photo-131634.jpeg);  
+  height: 130vh; 
+  background-size: contain; 
+  background-position: center;  
+  } 
+  .main {
+  text-decoration: underline black; 
+  text-transform: capitalize;
+   text-align:center; 
+   } 
+   .va  
+   {  
+   	border-left: 6px solid yellow ;  
+   	height:255px;  
+   	position:absolute;  
+   	left: 10%; 
+    padding: 20px;  
+    margin-top:50px;   
+    width:450px; 
+    margin-left: -53px; 
+   }  
+   .vb  
+   { 
+    border-top: 6px solid yellow ; 
+    position:relative;  
+    left: 4%;  
+    top: 9%;  
+    width: 500px;  
+   }  
+   .vc  
+   { 
+   border-left: 6px solid yellow ;  
+   height: 295px;  
+   position: absolute;  
+   padding:20px;  
+   margin-top:50px;  
+   width: 550px;  
+   margin-left: 683px;  
+   } 
+   .vd  
+   { 
+   border-top: 6px solid yellow ; 
+   position: relative;  
+   left: 52%;  
+   top: 9%; 
+   width: 550px;  
+  }
+  .ve{
+    border-left: 6px solid yellow ;  
+   	height:195px;  
+   	position:absolute;  
+   	left: 10%; 
+    padding: 20px;  
+    margin-top:380px;   
+    width:450px; 
+    margin-left: -53px; 
+  }
+  .vf{
+    border-top: 6px solid yellow ; 
+    position:relative;  
+    left: -10%;  
+    top: -115%;  
+    width: 465px; 
+  }
+  .vg  
+   { 
+   border-left: 6px solid yellow ;  
+   height: 185px;  
+   position: absolute;  
+   padding:20px;  
+   margin-top:-210px;  
+   width: 550px;  
+   margin-left: 583px;  
+   } 
+   .vh
+   { 
+   border-top: 6px solid yellow ; 
+   position: relative;  
+   left: 122%;  
+   top: -95%; 
+   width: 550px;  
+  }

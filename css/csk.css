@@ -1,0 +1,26 @@
+body
+{
+	background-image: url(../csk.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	 
+}
+ h1
+ { 
+ 	color: white; 
+ }
+  b
+ {
+ 	color: black;
+ }.a
+ {
+ 	margin-top:15px; 
+ 	margin-left: 80px;
+ }
+ .b
+ {
+ 	margin-top:-37%; 
+ 	margin-left: 920px;
+ }
+ 

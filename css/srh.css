@@ -1,0 +1,26 @@
+body 
+{ 
+	background-image: url(../srh.jpg); 
+	background-size: cover;
+    background-position: center; 
+    height: 100vh; 
+ } 
+ h1
+ { 
+ 	color: white; 
+ 	
+ }
+  b
+ {
+ 	color: black;
+ }
+ .ab
+ {
+ 	margin-top:15px; 
+ 	margin-left: 80px;
+ }
+ .bc
+ {
+ 	margin-top:-43%; 
+ 	margin-left: 920px;
+ }

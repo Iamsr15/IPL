@@ -1,0 +1,29 @@
+body
+{
+	background-image: url(../mi.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	 
+}
+ h1
+ { 
+ 	color: yellow; 
+ 	
+ }
+  b
+ {
+ 	color: black;
+ }
+ .a
+ {
+ 	margin-top:15px; 
+ 	margin-left: 80px;
+ }
+ .b
+ {
+ 	margin-top:-40%; 
+ 	margin-left: 920px;
+ }
+ 
+ 

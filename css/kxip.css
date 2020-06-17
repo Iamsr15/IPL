@@ -1,0 +1,26 @@
+body
+{
+	background-image: url(../kxip.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	 
+}
+ h1
+ { 
+ 	color: white; 
+ }
+  b
+ {
+ 	color: blue;
+ }
+  .a
+ {
+ 	margin-top:15px; 
+ 	margin-left: 80px;
+ }
+ .b
+ {
+ 	margin-top:-40%; 
+ 	margin-left: 910px;
+ }
